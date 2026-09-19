@@ -6,12 +6,6 @@
 
 Dự án **Customized Image Generation** nghiên cứu và triển khai phương pháp chuyển đổi phong cách nghệ thuật cho ảnh sử dụng Stable Diffusion kết hợp với kỹ thuật LoRA (Low-Rank Adaptation) fine-tuning. Hệ thống cho phép người dùng cung cấp ảnh nội dung (content image) và chọn phong cách nghệ thuật (style class) để tự động tạo ra ảnh mới giữ nguyên bố cục nhưng mang đặc trưng phong cách đã chọn.
 
-### Thông Tin Môn Học
-
-- **Môn học**: Các Kỹ Thuật Học Sâu và Ứng Dụng – CS431.Q12
-- **Giảng viên**: Nguyễn Vinh Tiệp & Chế Quang Huy
-- **Thời gian**: 2 tuần (Deadline: 22/11/2025)
-
 ### Thành Viên Nhóm
 
 1. **Nguyễn Khang Hy** (2352662)
